@@ -6,7 +6,7 @@
 One Kitchen is a food delivery app that has a special and unique feature which establishes new set of restaurant concept called "Ghost Kitchen".
 
 <details>
-   <summary>Ghost Kitchen</summary>
+   <summary><b>Ghost Kitchen</b></summary>
    <p>Ghost kitchens or dark kitchens are professional kitchens designed specifically for food delivery services. These delivery kitchens are strategically located in areas where there is a high demand for delivery. They do not have a physical store, and their menus are only available for delivery. These virtual restaurants work like digital storefronts, with a small number of staff members working in the back to fulfill online orders. Because they are digital, they have the potential to reach more customers than traditional physical locations.</p>
 </details>
 
