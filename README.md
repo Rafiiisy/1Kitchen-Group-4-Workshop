@@ -1,6 +1,6 @@
 #  ONE-KITCHEN
 
-# Electronic Data Control-System using Client-Server Socket Programming  
+# Introduction
 
 One Kitchen is a food delivery app that has a special and unique feature which establishes new set of restaurant concept called "Ghost Kitchen".
 
