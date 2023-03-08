@@ -2,7 +2,7 @@
 
 # Electronic Data Control-System using Client-Server Socket Programming  
 
-A safe and reliable Electronic Data Capture (EDC) System that is commonly used nowadays in an online banking system.
+One Kitchen is a food delivery app that has a special and unique feature which establishes new set of restaurant concept called "Ghost Kitchen".
 
 # Features
 
