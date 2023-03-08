@@ -1,6 +1,8 @@
 <h1 style="text-align: center;">ONE-KITCHEN</h1>
 <h3 style="text-align: center;"> 1K with 4K Quality </h3>
 
+<img src="/1Kitchen-Group-4-Workshop/Logo OneKitchen.png" alt="1K Logo" style="height: 100px; width:100px;"/>
+
 # Introduction
 
 One Kitchen is a food delivery app that has a special and unique feature which establishes new set of restaurant concept called "Ghost Kitchen".
